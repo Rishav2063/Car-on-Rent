@@ -31,7 +31,7 @@ A full-stack web application that allows users to **rent cars by location and se
 
 1. **Clone** the repository:
    ```bash
-   https://github.com/markandeyshukla/car-on-rent.git
+   https://github.com/Rishav2063/Car-on-Rent.git
 
 # Install backend dependencies:
 - cd backend
@@ -55,9 +55,9 @@ Create a .env file in the backend directory with the following:
 
 
 # Developed By
-- Markandey Shukla
+- Rishav Kumar
 - Full Stack Developer
-[LinkedIn](https://www.linkedin.com/in/markandey-shukla-078242203/) | [Portfolio](https://markandeyshukla.netlify.app)
+[LinkedIn](https://www.linkedin.com/in/rishabh-srivastava-8400102a1) 
 
 #  Live Website
 [Click here to view the live project](https://gadilejao.netlify.app)
@@ -66,6 +66,7 @@ Create a .env file in the backend directory with the following:
 # screenshots
 <img width="1237" height="732" alt="image" src="https://github.com/user-attachments/assets/1b794b96-991a-4588-ad5a-9c3604f42b77" />
 <img width="1694" height="598" alt="image" src="https://github.com/user-attachments/assets/d9393d68-9362-4252-aae1-81efdc290834" />
+
 
 
 
